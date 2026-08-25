@@ -21,17 +21,17 @@ Open `star-raiders.html` in any modern web browser. No installation, server, or 
 
 | Key | Action |
 |-----|--------|
-| **Arrow Keys** | Steer (pitch and yaw) |
-| **Space** | Fire photon torpedo |
-| **+ / =** | Increase speed |
-| **- / _** | Decrease speed |
-| **S** | Toggle shields on/off |
-| **C** | Toggle attack computer on/off |
-| **F** | Front view |
-| **A** | Aft (rear) view |
-| **G** | Galactic Chart |
-| **L** | Long Range Scan |
-| **H** | Hyperwarp to selected sector (from Galactic Chart) |
+| Arrow keys | Steer (pitch and yaw) |
+| `space` | Fire photon torpedo |
+| `+` / `=` | Increase speed |
+| `-` / `_` | Decrease speed |
+| `S` | Toggle shields on/off |
+| `C` | Toggle attack computer on/off |
+| `F` | Front view |
+| `A` | Aft (rear) view |
+| `G` | Galactic Chart |
+| `L` | Long Range Scan |
+| `H` | Hyperwarp to selected sector (from Galactic Chart) |
 
 ### Gamepad
 
